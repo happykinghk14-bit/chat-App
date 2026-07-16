@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat-App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial; background: #f0f2f5; margin: 0; padding: 20px; text-align: center; }
+    h1 { color: #1877f2; }
+    .box { background: white; padding: 20px; border-radius: 10px; max-width: 400px; margin: auto; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Welcome to Chat-App</h1>
+    <p>Like Facebook 🚀</p>
+    <p>This is your new app. We’ll add chat next.</p>
+  </div>
+</body>
+</html>
